@@ -29,12 +29,7 @@ Alter = Alter + 1;
 return(Alter)
 }
 ```
-#### Um diese Funktion in der Main Funktion zu verwenden kann man diese so Aufrufen und einem Wert zuweisen (Beispiel ist im Main):
-```csharp
 
-```
-
-<br>
 
 #### Funktion ohne Rückgabewert
 Bei einer Funktion ohne Rückgabewert ist das ganze etwa gleich, nur 2 Punkte unterscheiden sich. Anstatt das man einen Datentyp wählt gibt man hier einfach nur ``void`` ein und in den ``{}`` wird kein ``return`` verwendet.
@@ -46,6 +41,16 @@ string Alter;
 Alter = Alter + 1;
 Console.WriteLine(Alter);
 }
+```
+#### Um diese Funktion in der Main Funktion zu verwenden kann man diese so Aufrufen und einem Wert zuweisen (Beispiel ist im Main):
+Mit Rückgabe:
+```csharp
+string Alter = AlterErweitern();
+```
+Ohne Rückgabe:
+```csharp
+AlterErweitern();
+
 ```
 
 
