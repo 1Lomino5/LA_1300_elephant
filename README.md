@@ -30,6 +30,8 @@ return(Alter)
 }
 ```
 #### Um diese Funktion in der Main Funktion zu verwenden kann man diese so Aufrufen und einem Wert zuweisen (Beispiel ist im Main):
+```csharp
+
 ```
 
 <br>
