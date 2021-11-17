@@ -61,7 +61,7 @@ AlterErweitern();
  ### Einbettung in einen Code
 Im folgenden Bild sieht man ein Beispiel, wo man diese Funktionen benutzen könnte.
 
-![alt text](https://github.com/1Lomino5/LA_1300_elephant/blob/main/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/1Lomino5/LA_1300_elephant/main/Bild%20f%C3%BCr%20Portfolio.JPGe)
 
 
 
