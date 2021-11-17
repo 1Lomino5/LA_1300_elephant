@@ -7,6 +7,8 @@
 <br>
 
 ## Funktionen in C#
+Was ist Funktion?
+Eine Funktion ist ein Stück Code welches vorprogrammiert wurde welches man immer wieder verwenden kann.
 
 
 ### Anleitung
